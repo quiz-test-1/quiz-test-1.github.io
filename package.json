@@ -1,0 +1,24 @@
+{
+  "name": "quiz-test-1",
+  "version": "1.0.0",
+  "description": "Система за създадване, управление, и попълване на тестове със свободен достъп.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quiz-test-1/quiz-test-1.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quiz-test-1/quiz-test-1.github.io/issues"
+  },
+  "homepage": "https://github.com/quiz-test-1/quiz-test-1.github.io#readme",
+  "dependencies": {
+    "lit-html": "2.0.2",
+    "page": "1.11.6"
+  }
+}
